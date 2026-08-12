@@ -2,6 +2,10 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/tulip-lab/agentic-AI)](https://github.com/tulip-lab/agentic-AI/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/tulip-lab/agentic-AI.svg?style=social&label=Star)](https://github.com/tulip-lab/agentic-AI/stargazers/)
 
+---
+
+![FLIP Banner](https://raw.githubusercontent.com/tulip-lab/agentic-AI-lab/develop/Assets/images/flip-banner.png)
+
 # FLIP: Agentic AI in Practice
 
 FLIP stands for **Fundamentals of Learning and Intelligent Processing**. This open course from [TULIP Lab](https://www.tulip.academy) develops the conceptual judgment and practical skills needed to design, test, and govern useful agentic AI systems.
