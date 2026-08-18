@@ -28,8 +28,8 @@ After completing M01, learners should be able to:
 
 - **explain** how generative AI, large language models, and agentic AI relate;
 - **identify** the model, state, tools, orchestration, and oversight elements of an agentic system;
-- **select** an appropriate course tool or platform for a bounded learning task;
-- **describe** the expected background and responsible-practice boundaries for the course; and
+- **select** an appropriate tool or platform for a bounded learning task;
+- **describe** the expected background and responsible-practice boundaries for the unit; and
 - **locate** authoritative practical and offering-specific assessment information.
 
 ## Practicals
