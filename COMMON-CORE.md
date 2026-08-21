@@ -7,7 +7,7 @@ The common core is the institution-neutral learning sequence shared by public of
 ## Learning Progression
 
 1. **Foundations and representations:** M01-M02 establish safe API practice, model behaviour, learning fundamentals, and embeddings.
-2. **Workflow construction:** M03-M04 move from visual composition to programmatic tools and actions.
+2. **Workflow construction:** M03 engineers runtime context and orchestration; M04 implements the same responsibilities as programmatic tools and actions.
 3. **Knowledge, state, and collaboration:** M05-M06 add retrieval, persistent workflow state, multiple agents, and adversarial analysis.
 4. **Adaptation and engineering:** M07-M08 compare model adaptation and multimodal techniques, then integrate evaluation, protocols, guards, and product decisions.
 

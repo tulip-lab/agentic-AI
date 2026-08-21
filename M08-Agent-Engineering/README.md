@@ -162,7 +162,7 @@ Report results with versions, conditions, uncertainty, negative findings, and af
 
 ## Completing the Common Core
 
-The eight modules form one engineering progression. M01 establishes controlled interaction; M02 supplies models and representations; M03 composes them visually; M04 makes tools and traces explicit in code; M05 adds knowledge and durable state; M06 expands coordination and safety; M07 evaluates adaptation and serving; and M08 integrates requirements, evidence, interfaces, controls, operation, and user value.
+The eight modules form one engineering progression. M01 establishes controlled interaction; M02 supplies models and representations; M03 engineers runtime context and orchestration; M04 makes the resulting tools and traces explicit in code; M05 adds knowledge and durable state; M06 expands coordination and safety; M07 evaluates adaptation and serving; and M08 integrates requirements, evidence, interfaces, controls, operation, and user value.
 
 Completion means being able to explain and test this whole path, including its limits. A responsible agentic system is not defined by how many autonomous steps it can take, but by whether its behaviour is useful, bounded, observable, recoverable, and governed with evidence.
 

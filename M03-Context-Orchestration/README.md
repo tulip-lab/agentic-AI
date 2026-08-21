@@ -1,10 +1,10 @@
 [![Course home](https://img.shields.io/badge/FLIP-Agentic_AI-informational)](../README.md)
 
-# M03: Visual Agent Workflows
+# M03: Context Engineering and Agent Orchestration
 
 ## Module Overview
 
-Visual orchestration makes an agentic system inspectable as connected components. This module develops the sequence **nodes -> data flow -> state -> tools -> external interface** with Flowise. The canvas helps reveal where prompts, models, memory, retrieval, and actions meet, but a visible graph is still executable software: its credentials, inputs, tools, and deployment surface require deliberate controls.
+Context Engineering determines what information each model call can see. Agent orchestration determines which component runs next and how its result changes future context. This module uses Flowise to make both mechanisms inspectable as **nodes -> data flow -> state -> tools -> external interface**. The canvas reveals where prompts, models, memory, retrieval, and actions meet, but the visible graph is still executable software: its credentials, inputs, tools, and deployment surface require deliberate controls.
 
 The module moves from environment setup and a first chatflow to stateful conversation, retrieval-augmented generation (RAG), safe tool use, and external integration. Each session adds one responsibility while preserving the ability to trace what entered the flow, what changed, what external capability was invoked, and what evidence supports the result.
 
@@ -12,15 +12,15 @@ The module moves from environment setup and a first chatflow to stateful convers
 
 M02 examined models and representations separately. M03 composes them: an embedding model transforms documents and queries, a vector store supports retrieval, a chat model generates a response, and workflow state carries selected information between nodes. Failures can now occur at connections as well as within a model.
 
-This visual stage also prepares for M04. Flowise exposes responsibilities that will later become software interfaces: message construction, parsing, dispatch, storage, validation, and tracing. Understanding them on a canvas makes the move to code a change of implementation medium rather than a new conceptual system.
+This inspectable stage also prepares for M04. Flowise exposes responsibilities that will later become software interfaces: message construction, parsing, dispatch, storage, validation, and tracing. Understanding them on a canvas makes the move to code a change of implementation medium rather than a new conceptual system.
 
 ## Learning Outcomes
 
 By the end of this module, you should be able to:
 
-- **Configure** a Flowise runtime while separating credentials, configuration, and shareable flow definitions.
-- **Assemble** and trace a chatflow using explicit nodes, edges, inputs, outputs, and state.
-- **Distinguish** conversation context, durable memory, retrieval, and generation.
+- **Engineer** the context assembled for a model call from instructions, conversation state, retrieved evidence, and tool observations.
+- **Compare** fixed, conditional, and model-influenced orchestration, tracing how each step changes state and subsequent context.
+- **Configure** and inspect these mechanisms in Flowise using explicit nodes, edges, inputs, outputs, and runtime traces.
 - **Constrain** an Agentflow with bounded tools, validated arguments, and explicit rejection behaviour.
 - **Assess** an embed or API surface for authentication, exposure, observability, and deployment readiness.
 
@@ -29,11 +29,11 @@ By the end of this module, you should be able to:
 | Session | Conceptual role | Added system responsibility |
 | --- | --- | --- |
 | M03X | Environment and deployment choices | Runtime, secrets, persistence, and exposure |
-| M03A | First chatflow | Nodes, edges, configuration, and message flow |
-| M03B | Prompting and memory | Instructions, conversation context, and state scope |
-| M03C | Visual RAG | Ingestion, retrieval, grounding, and provenance |
-| M03D | Agentflow with tools | Selection, validation, authority, and rejection |
-| M03E | External interfaces | Prediction APIs, embeds, monitoring, and boundary tests |
+| M03A | Visible model call | Nodes, edges, execution, and runtime trace |
+| M03B | Context Engineering | Selection, structure, lifecycle, quality, and memory scope |
+| M03C | Context acquisition | Retrieval mode, grounding, provenance, and abstention |
+| M03D | Dynamic orchestration | Routing, tool authority, state transition, stop, and recovery |
+| M03E | Boundaries and evidence | Isolation, evaluation, interfaces, and readiness |
 
 ## M03X: Flowise Environment Setup
 
@@ -148,12 +148,12 @@ The canonical Lab tutorials preserve the implementation sequence and the exact p
 
 | Session | Public practical | Evidence focus |
 | --- | --- | --- |
-| M03X | [Flowise environment setup](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Visual-Agents/Flowise/M03X-Flowise-Environment-Setup.md) | Runtime, configuration, persistence, and exposure |
-| M03A | [Interface and first chatflow](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Visual-Agents/Flowise/M03A-Flowise-Interface-First-Chatflow.md) | Node configuration and end-to-end message tracing |
-| M03B | [Chatbot prompt and memory](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Visual-Agents/Flowise/M03B-Flowise-Chatbot-Prompt-Memory.md) | Instructions, session state, and isolation |
-| M03C | [RAG over public unit documents](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Visual-Agents/Flowise/M03C-Flowise-RAG-Public-Unit-Docs.md) | Retrieval, grounding, provenance, and abstention |
-| M03D | [Agentflow with safe tools](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Visual-Agents/Flowise/M03D-Flowise-AgentFlow-Safe-Tools.md) | Tool selection, validation, rejection, and termination |
-| M03E | [Embed, API, and deployment readiness](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Visual-Agents/Flowise/M03E-Flowise-Embed-API-Deployment-Readiness.md) | External boundaries, failure tests, and observability |
+| M03X | [Flowise environment setup](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Context-Orchestration/Flowise/M03X-Flowise-Environment-Setup.md) | Runtime, configuration, persistence, and exposure |
+| M03A | [Interface and first chatflow](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Context-Orchestration/Flowise/M03A-Flowise-Interface-First-Chatflow.md) | Node configuration and end-to-end message tracing |
+| M03B | [Chatbot prompt and memory](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Context-Orchestration/Flowise/M03B-Flowise-Chatbot-Prompt-Memory.md) | Instructions, session state, and isolation |
+| M03C | [RAG over public unit documents](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Context-Orchestration/Flowise/M03C-Flowise-RAG-Public-Unit-Docs.md) | Retrieval, grounding, provenance, and abstention |
+| M03D | [Agentflow with safe tools](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Context-Orchestration/Flowise/M03D-Flowise-AgentFlow-Safe-Tools.md) | Tool selection, validation, rejection, and termination |
+| M03E | [Embed, API, and deployment readiness](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Context-Orchestration/Flowise/M03E-Flowise-Embed-API-Deployment-Readiness.md) | External boundaries, failure tests, and observability |
 
 ## Further Reference Resources
 

@@ -147,4 +147,4 @@ For research and personalisation, respect source terms, data purpose, retention,
 
 M05 expands the evidence and state responsibilities introduced here. Instead of one research call or local record, the workflow will ingest a governed corpus, evaluate retrieval separately from generation, persist graph state across steps, and combine uncertain visual context with controlled action.
 
-[Previous: M03](../M03-Visual-Agents/README.md) | [Course home](../README.md) | [Next: M05](../M05-Knowledge-Agents/README.md)
+[Previous: M03](../M03-Context-Orchestration/README.md) | [Course home](../README.md) | [Next: M05](../M05-Knowledge-Agents/README.md)

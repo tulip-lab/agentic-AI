@@ -41,7 +41,7 @@ After working through the common core, you should be able to:
 | --- | --- | --- |
 | M01 | [Agentic AI Foundations](M01-Foundations/README.md) | [Jupyter](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M01-Foundations/Jupyter) |
 | M02 | [AI Models and Representations](M02-AI-Modeling/README.md) | [Jupyter](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M02-AI-Modeling/Jupyter) |
-| M03 | [Visual Agent Workflows](M03-Visual-Agents/README.md) | [Flowise](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M03-Visual-Agents/Flowise) |
+| M03 | [Context Engineering and Agent Orchestration](M03-Context-Orchestration/README.md) | [Flowise](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M03-Context-Orchestration/Flowise) |
 | M04 | [Agent Programming and Tool Use](M04-Agent-Programming/README.md) | [Jupyter](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M04-Agent-Programming/Jupyter) |
 | M05 | [Knowledge and Stateful Agents](M05-Knowledge-Agents/README.md) | [Jupyter](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M05-Knowledge-Agents/Jupyter) |
 | M06 | [Multi-Agent Systems and Safety](M06-Multi-Agent-Safety/README.md) | [Jupyter](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M06-Multi-Agent-Safety/Jupyter) |

@@ -123,6 +123,6 @@ Treat model outputs and similarity scores as uncertain evidence. Define what hap
 
 ## Preparing for the Next Module
 
-M03 turns the components from this module into an inspectable visual system. Models become nodes, embeddings connect ingestion to retrieval, state carries information between steps, and evaluation shifts from one model to the behaviour of an entire workflow.
+M03 turns the components from this module into an inspectable context and orchestration system. Models become nodes, embeddings connect ingestion to retrieval, state carries information between steps, and evaluation shifts from one model to the behaviour of an entire workflow.
 
-[Previous: M01](../M01-Foundations/README.md) | [Course home](../README.md) | [Next: M03](../M03-Visual-Agents/README.md)
+[Previous: M01](../M01-Foundations/README.md) | [Course home](../README.md) | [Next: M03](../M03-Context-Orchestration/README.md)
