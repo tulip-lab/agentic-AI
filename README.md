@@ -40,7 +40,7 @@ After working through the common core, you should be able to:
 | Module | Conceptual overview | Public practicals |
 | --- | --- | --- |
 | M01 | [Agentic AI Foundations](M01-Foundations/README.md) | [Jupyter](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M01-Foundations/Jupyter) |
-| M02 | [Prompt Engineering and Retrieval-Augmented Generation](M02-AI-Modeling/README.md) | [Jupyter](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M02-AI-Modeling/Jupyter) |
+| M02 | [Prompt Engineering and Retrieval-Augmented Generation](M02-Prompt-RAG/README.md) | [Jupyter](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M02-Prompt-RAG/Jupyter) |
 | M03 | [Context Engineering and Agent Orchestration](M03-Context-Orchestration/README.md) | [Flowise](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M03-Context-Orchestration/Flowise) |
 | M04 | [Agent Programming and Tool Use](M04-Agent-Programming/README.md) | [Jupyter](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M04-Agent-Programming/Jupyter) |
 | M05 | [Knowledge and Stateful Agents](M05-Knowledge-Agents/README.md) | [Jupyter](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M05-Knowledge-Agents/Jupyter) |

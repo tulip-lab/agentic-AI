@@ -100,4 +100,4 @@ Reliable agentic systems place controls around probabilistic output and preserve
 Never place real credentials, personal data, private course material, or unreviewed consequential actions inside a public notebook.
 Treat model output as untrusted input at every software boundary, give tools the least capability needed, and retain human review where an incorrect action could affect people, systems, or data.
 
-[Course home](../README.md) | [Next: M02](../M02-AI-Modeling/README.md)
+[Course home](../README.md) | [Next: M02](../M02-Prompt-RAG/README.md)

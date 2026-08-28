@@ -10,7 +10,7 @@ The module moves from environment setup and a first chatflow to stateful convers
 
 ## Connection to the Course
 
-M02 examined models and representations separately. M03 composes them: an embedding model transforms documents and queries, a vector store supports retrieval, a chat model generates a response, and workflow state carries selected information between nodes. Failures can now occur at connections as well as within a model.
+M02 established prompting as a controlled loop and retrieval-augmented generation as a two-path system for supplying evidence to a single model call. M03 composes these same mechanisms inside a visible, orchestrated workflow: an embedding model transforms documents and queries, a vector store supports retrieval, a chat model generates a response, and workflow state carries selected information between nodes. Failures can now occur at connections as well as within a model call.
 
 This inspectable stage also prepares for M04. Flowise exposes responsibilities that will later become software interfaces: message construction, parsing, dispatch, storage, validation, and tracing. Understanding them on a canvas makes the move to code a change of implementation medium rather than a new conceptual system.
 
@@ -169,4 +169,4 @@ Before sharing a flow, test malicious instructions, missing evidence, invalid to
 
 M04 reconstructs these responsibilities in code. Nodes become functions or runnable components, edges become explicit data contracts, Agentflow selection becomes dispatch logic, and the visual trace becomes structured application evidence. The objective remains the same: keep model choice separate from application authority.
 
-[Previous: M02](../M02-AI-Modeling/README.md) | [Course home](../README.md) | [Next: M04](../M04-Agent-Programming/README.md)
+[Previous: M02](../M02-Prompt-RAG/README.md) | [Course home](../README.md) | [Next: M04](../M04-Agent-Programming/README.md)

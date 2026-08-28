@@ -91,13 +91,13 @@ The three sessions form one control chain over a single model call. M02A asks wh
 
 ## Practicals
 
-The Lab repository is being realigned to this module's confirmed Prompt Engineering and RAG design. The notebooks linked below still reflect the module's prior AI-Modeling topic, regression, image classification, and embeddings, and are retained here only until replacement practicals for M02A-M02C are approved. Treat them as legacy material, not as this module's practical sequence.
+The Lab repository has been realigned to this module's confirmed Prompt Engineering and RAG design: the notebook directory and file names now match the M02A-M02C session structure below. The notebooks currently contain a structured outline with placeholder exercises; full worked practicals are still being authored and will be filled in without changing these stable names.
 
-| Session | Legacy Lab notebook | Notebook topic (pending replacement) |
+| Session | Lab notebook | Notebook status |
 | --- | --- | --- |
-| M02A | [Regression and ML basics notebook](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-AI-Modeling/Jupyter/M02A-Regression-ML-Basics.ipynb) | Baselines, splits, and metrics (legacy topic) |
-| M02B | [Deep-learning image classification notebook](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-AI-Modeling/Jupyter/M02B-DeepLearning-ImageClassification.ipynb) | Training behaviour and transfer (legacy topic) |
-| M02C | [Embeddings and similarity notebook](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-AI-Modeling/Jupyter/M02C-Embeddings-VectorData-Similarity.ipynb) | Vector geometry and ranking (legacy topic) |
+| M02A | [Prompt foundations notebook](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-Prompt-RAG/Jupyter/M02A-Prompt-Foundations.ipynb) | Outline and placeholder exercises |
+| M02B | [Prompt engineering control loop notebook](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-Prompt-RAG/Jupyter/M02B-Prompt-Engineering-Control-Loop.ipynb) | Outline and placeholder exercises |
+| M02C | [Retrieval-augmented generation notebook](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-Prompt-RAG/Jupyter/M02C-Retrieval-Augmented-Generation.ipynb) | Outline and placeholder exercises |
 
 ## Further Reference Resources
 
