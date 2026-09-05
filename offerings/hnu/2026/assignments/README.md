@@ -17,10 +17,10 @@
 
 Use the canonical Lab package for the task and working template:
 
-- [English Specification](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V1/Specification.md)
-- [Chinese Specification](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V1/Specification-zh.md)
-- [English Prompt Log](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V1/prompt-log-template.md)
-- [Chinese Prompt Log](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V1/prompt-log-template-zh.md)
+- [English Specification](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V2/Specification.md)
+- [Chinese Specification](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V2/Specification-zh.md)
+- [English Prompt Log](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V2/prompt-log-template.md)
+- [Chinese Prompt Log](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V2/prompt-log-template-zh.md)
 
 ### Email subject and file naming
 
@@ -74,10 +74,10 @@ Open the ZIP archive before sending and confirm that every required file is read
 
 任务要求和工作模板以 Lab 仓库中的权威作业包为准：
 
-- [英文 Specification](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V1/Specification.md)
-- [中文 Specification](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V1/Specification-zh.md)
-- [英文 Prompt Log](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V1/prompt-log-template.md)
-- [中文 Prompt Log](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V1/prompt-log-template-zh.md)
+- [英文 Specification](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V2/Specification.md)
+- [中文 Specification](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V2/Specification-zh.md)
+- [英文 Prompt Log](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V2/prompt-log-template.md)
+- [中文 Prompt Log](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/Assignments/AA-A1-PROMPT-ANIMATION-V2/prompt-log-template-zh.md)
 
 ### 邮件 Subject 与文件命名
 
