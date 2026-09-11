@@ -4,6 +4,13 @@
 
 ## English
 
+### Submission instructions for both assignments
+
+- Submit by email to [gangli@duck.com](mailto:gangli@duck.com).
+- Use the subject format `[HNU2026] XXXX`, replacing `XXXX` with the assignment-specific identifier shown below or another clear assignment and student/team identifier.
+- A receipt confirmation will normally be sent by email within 24 hours.
+- Keep email attachments below 30 MB. Prefer sharing files through OneDrive, especially for video or larger files, and make sure the link is accessible to the recipient.
+
 ### Assignment information
 
 | Item | Detail |
@@ -11,9 +18,9 @@
 | Assignment | Assignment 1: Prompt-Engineered Animation Reconstruction |
 | Assessment mode | Individual |
 | Course weighting | 40% |
-| Due date | To be confirmed |
-| Submission method | Email to the teaching assistant |
-| Teaching assistant email | To be confirmed |
+| Due date | 21 September 2026 |
+| Exact submission time | 8:00 pm Beijing time (UTC+8) |
+| Submission method | Email to gangli@duck.com; prefer a OneDrive sharing link |
 
 Use the canonical Lab package for the task and working template:
 
@@ -67,8 +74,8 @@ Open the ZIP archive before sending and confirm that every required file is read
 | Assessment mode | Individual or team of two |
 | Course weighting | 60% |
 | Due date | 21 September 2026 |
-| Exact submission time | To be confirmed by the teaching team |
-| Submission method | To be confirmed by the teaching team |
+| Exact submission time | 8:00 pm Beijing time (UTC+8) |
+| Submission method | Email to gangli@duck.com; prefer a OneDrive sharing link |
 
 Use the canonical Lab package for the task, case pack, and working templates:
 
@@ -85,6 +92,13 @@ The case-pack documents linked from the Specification are part of the required e
 
 ## 中文
 
+### 两项作业通用提交说明
+
+- 通过电子邮件提交至 [gangli@duck.com](mailto:gangli@duck.com)。
+- 邮件主题格式为 `[HNU2026] XXXX`；请将 `XXXX` 替换为下方规定的作业标识，或其他能清楚识别作业及学生/小组的信息。
+- 通常会在 24 小时内通过邮件回复确认收到。
+- 邮件附件请尽量控制在 30 MB 以内。建议优先使用 OneDrive 分享文件，尤其是视频或较大文件，并确认收件人可以访问链接。
+
 ### 作业信息
 
 | 项目 | 说明 |
@@ -92,9 +106,9 @@ The case-pack documents linked from the Specification are part of the required e
 | 作业 | 作业一：基于 Prompt Engineering 的动画重构 |
 | 作业形式 | 个人作业 |
 | 课程占比 | 40% |
-| 截止日期 | 待定 |
-| 提交方式 | 通过电子邮件提交给助教 |
-| 助教邮箱 | 待定 |
+| 截止日期 | 2026 年 9 月 21 日 |
+| 具体截止时间 | 北京时间晚上 8:00（UTC+8） |
+| 提交方式 | 发送邮件至 gangli@duck.com；建议优先使用 OneDrive 分享链接 |
 
 任务要求和工作模板以 Lab 仓库中的权威作业包为准：
 
@@ -148,8 +162,8 @@ HNU2026-A1-<StudentID>-<FullName>/
 | 作业形式 | 1 人独立完成或 2 人组队完成 |
 | 课程占比 | 60% |
 | 截止日期 | 2026 年 9 月 21 日 |
-| 具体截止时间 | 由教学团队另行通知 |
-| 提交方式 | 由教学团队另行通知 |
+| 具体截止时间 | 北京时间晚上 8:00（UTC+8） |
+| 提交方式 | 发送邮件至 gangli@duck.com；建议优先使用 OneDrive 分享链接 |
 
 任务要求、案例资料和工作模板以 Lab 仓库中的权威作业包为准：
 
