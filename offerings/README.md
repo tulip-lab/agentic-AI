@@ -2,10 +2,9 @@
 
 [Home](../README.md) | [Common core](../COMMON-CORE.md) | [Governance](../HUB-GOVERNANCE.md)
 
-Offering pages use `offerings/<institute>/<year>/`. They select from the shared common core and record only reviewed public delivery information. Local schedules, assignments, and policy links remain offering-specific.
+Explore course offerings for different audiences and teaching contexts. Each offering introduces its learning goals, topics and learning activities.
 
 ## Current Index
 
 - [HNU / 湖南大学 2026](hnu/2026/README.md) - **planned**
-
-An offering listing is a navigation record, not evidence that delivery, assessment, or institutional approval is complete.
+- [BTBU Business Faculty 2026：AI赋能教学与科研](btbu/2026/business-faculty/README.md) — 面向商科教师，中文材料，10 学时、五场专题，共 450 分钟。

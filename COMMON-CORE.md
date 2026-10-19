@@ -1,5 +1,7 @@
 # Agentic AI Common Core
 
+Course framework: **FLIP: Foundations and Engineering of Agentic AI**. Offerings share the technical core and select their depth, application context, and practical pathway.
+
 [Home](README.md) | [Governance](HUB-GOVERNANCE.md) | [Offerings](offerings/README.md)
 
 The common core is the institution-neutral learning sequence shared by public offerings. It defines what learners should be able to explain, build, test, and govern without imposing a university calendar, assessment weight, submission platform, or local policy.
