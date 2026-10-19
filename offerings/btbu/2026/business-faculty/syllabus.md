@@ -24,7 +24,7 @@ S01–S05 是本系列的专题编号；M01–M08 是 FLIP 共享技术模块编
 
 **Lab 参考**：[M01B 生成式 AI 与智能体基础](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M01-Foundations/Jupyter/M01B-GenAI-Fundamentals.ipynb)；[M01C 工具调用与 API](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M01-Foundations/Jupyter/M01C-LLMs-FunctionCalling-APIs.ipynb)。
 
-**专题实践**：同一教学任务的单模型、单智能体与多智能体比较。
+**专题实践**：围绕 Data Privacy 情境，比较单模型、单智能体与多角色审核的结果、权限和证据。
 
 ## S02 AI Engineering：从提示词到智能体系统
 
@@ -36,19 +36,19 @@ S01–S05 是本系列的专题编号；M01–M08 是 FLIP 共享技术模块编
 
 **Lab 参考**：[M02A 提示词基础](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-Prompt-RAG/Jupyter/M02A-Prompt-Foundations.ipynb)；[M02B 提示词工程与受控改进](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-Prompt-RAG/Jupyter/M02B-Prompt-Engineering-Control-Loop.ipynb)；[M08E 工作流质量控制](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M08-Agent-Engineering/Jupyter/M08E-Agent-Hooks-WorkflowGuards.ipynb)。
 
-**专题实践**：教学任务规范与 Teaching Skill；Prompt—Context—Skill—Harness 对照。
+**专题实践**：以 Data Privacy 资料建立任务规范与 Teaching Skill，比较 Prompt—Context—Skill—Harness 的责任与停止条件。
 
 ## S03 AI赋能课程建设与教学资源开发
 
-围绕课程学习目标，探讨 AI 如何支持大纲、教学活动、讲义、课件与练习的设计，以及课程知识助手如何利用已有资料支持教学。以数据隐私与 AI 安全课程为案例，核查生成内容的准确性、资料来源与教学适切性，并讨论向商科课程的迁移。
+围绕课程学习目标，探讨 AI 如何支持大纲、教学活动、讲义、课件与练习的设计，以及课程知识助手如何利用已有资料支持教学。以 Data Privacy 课程为案例，讨论隐私泄露、数据泄密与差分隐私的不同边界，核查生成内容的准确性、资料来源与教学适切性，并讨论向商科课程的迁移。
 
 **主要内容**：课程目标与教学活动对齐；课程知识助手；讲义与练习设计；Slidev 课件；教学内容审核与来源核查。
 
 **技术模块**：[M03 上下文与编排](https://github.com/tulip-lab/agentic-AI/blob/develop/M03-Context-Orchestration/README.md)；[M05 知识与状态智能体](https://github.com/tulip-lab/agentic-AI/blob/develop/M05-Knowledge-Agents/README.md)；[M08 智能体工程](https://github.com/tulip-lab/agentic-AI/blob/develop/M08-Agent-Engineering/README.md)。
 
-**Lab 参考**：[M03C Flowise 课程资料检索](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Context-Orchestration/Flowise/M03C-Flowise-RAG-Public-Unit-Docs.md)；[M05B 课程知识助手](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M05-Knowledge-Agents/Jupyter/M05B-RAG-CourseMaterials-Assistant.ipynb)。
+**Lab 参考**：[M03C Flowise 课程资料检索](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Context-Orchestration/Flowise/M03C-Flowise-RAG-Public-Unit-Docs.md)；[M05B 课程知识助手](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M05-Knowledge-Agents/Jupyter/M05B-RAG-CourseMaterials-Assistant.ipynb)；[课程资源贯通实践（L1/L2）](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M05-Knowledge-Agents/Applications/course-rag)。
 
-**专题实践**：Data Privacy / AI Security 课程案例；Course Design Skill；Lecture Planning Skill；Slidev 教学资源生成。
+**专题实践**：Data Privacy 课程案例（隐私泄露、数据泄密与差分隐私）；Course Design Skill；Lecture Planning Skill；Slidev 教学资源生成。
 
 ## S04 AI赋能作业设计、预批改与教学评价
 
@@ -60,7 +60,7 @@ S01–S05 是本系列的专题编号；M01–M08 是 FLIP 共享技术模块编
 
 **Lab 参考**：[M03D Flowise AgentFlow 与安全工具](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M03-Context-Orchestration/Flowise/M03D-Flowise-AgentFlow-Safe-Tools.md)；[M06A 多智能体协作](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M06-Multi-Agent-Safety/Jupyter/M06A-MultiAgent-Collaboration.ipynb)；[M08A 评价方法](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M08-Agent-Engineering/Jupyter/M08A-HuggingFace-Evaluation.ipynb)。
 
-**专题实践**：Assignment Design Skill；Rubric Design；合成作业预批改；多智能体作业审核委员会。
+**专题实践**：以同一 Data Privacy 情境设计 Assignment Design Skill、Rubric、合成作业预批改与多角色审核。
 
 ## S05 AI赋能科研、论文协作与学术评审
 
@@ -72,6 +72,6 @@ S01–S05 是本系列的专题编号；M01–M08 是 FLIP 共享技术模块编
 
 **Lab 参考**：[M04D 研究与写作智能体](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M04-Agent-Programming/Jupyter/M04D-LeadResearch-WritingAgent.ipynb)；[M05A 检索与证据基础](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M05-Knowledge-Agents/Jupyter/M05A-Basic-RAG-System.ipynb)；[M06A 多智能体协作](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M06-Multi-Agent-Safety/Jupyter/M06A-MultiAgent-Collaboration.ipynb)。
 
-**专题实践**：Literature Evidence Skill；Research Planning Skill；论文协作与模拟多角色评审；Meta-Review。
+**专题实践**：围绕 Data Privacy 的合成研究问题，制作证据表、研究计划、模拟同行评审与 Meta-Review。
 
-工具选择与实践建议见[实践与工具](lab-map.md)。
+贯穿案例的[Data Privacy L1–L3 实验](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M06-Multi-Agent-Safety/Applications/data-privacy)可按需要用于 S01、S02 和 S05；S03 的[课程资源贯通实践](https://github.com/tulip-lab/agentic-AI-lab/tree/develop/M05-Knowledge-Agents/Applications/course-rag)提供教学资源设计路线。工具选择与实践建议见[实践与工具](lab-map.md)。
