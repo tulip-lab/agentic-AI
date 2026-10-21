@@ -4,7 +4,7 @@
 
 ## Content Authority
 
-This repository is canonical for institution-neutral open module overviews, common-core navigation, and public offering indexes. The [Lab repository](https://github.com/tulip-lab/agentic-AI-lab/tree/develop) is canonical for public practicals and approved student-facing assignment artefacts.
+This repository owns public course descriptions, common-core navigation and independently authored module overviews. These pages are entry points and do not replace the complete restricted teaching core or grant permission to copy it. Offering pages are reviewed public views of their adopted delivery records. The [Lab repository](https://github.com/tulip-lab/agentic-AI-lab/tree/develop) is canonical for public practicals and approved student-facing assignment artefacts.
 
 Restricted teaching material, solutions, marking support, moderation, hidden checks, credentials, student information, and unpublished offering evidence are not public-hub content.
 

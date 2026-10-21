@@ -12,7 +12,7 @@ Former course title: **FLIP: Agentic AI in Practice**. The shared M01–M08 core
 
 FLIP stands for **Fundamentals of Learning and Intelligent Processing**. This open course from [TULIP Lab](https://www.tulip.academy) develops the conceptual judgment and practical skills needed to design, test, and govern useful agentic AI systems.
 
-> The course is under active development. The `develop` branches contain the current learning sequence and practical materials; they are not a released offering.
+Hands-on notebooks, Flowise tutorials, and other practical materials are available in the [FLIP Lab repository](https://github.com/tulip-lab/agentic-AI-lab/tree/develop).
 
 ## Start Here
 
@@ -58,7 +58,7 @@ Never commit credentials, personal data, private course material, or unreviewed 
 
 ## Offerings and Assignments
 
-- [HNU / 湖南大学 2026](offerings/hnu/2026/README.md) is currently planned.
+- [HNU / 湖南大学 2026](offerings/hnu/2026/README.md)
 - [BTBU Business Faculty 2026：AI赋能教学与科研](offerings/btbu/2026/business-faculty/README.md) 面向商科教师，以中文介绍 AI 在教学与科研中的应用。
 - Assignment briefs and starter materials, when approved, are canonical in the Lab repository and linked from the relevant offering rather than copied here.
 

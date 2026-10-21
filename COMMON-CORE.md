@@ -8,7 +8,7 @@ The common core is the institution-neutral learning sequence shared by public of
 
 ## Learning Progression
 
-1. **Foundations and representations:** M01-M02 establish safe API practice, model behaviour, learning fundamentals, and embeddings.
+1. **Foundations and representations:** M01-M02 establish safe API practice, model behaviour, prompt specifications, controlled evaluation and evidence-grounded retrieval.
 2. **Workflow construction:** M03 engineers runtime context and orchestration; M04 implements the same responsibilities as programmatic tools and actions.
 3. **Knowledge, state, and collaboration:** M05-M06 add retrieval, persistent workflow state, multiple agents, and adversarial analysis.
 4. **Adaptation and engineering:** M07-M08 compare model adaptation and multimodal techniques, then integrate evaluation, protocols, guards, and product decisions.
@@ -26,7 +26,7 @@ Learners should be able to:
 
 ## Concepts and Practicals
 
-The conceptual module pages in this repository explain purpose, vocabulary, progression, and curated readings. Executable notebooks and tutorials are canonical in the [public Lab repository](https://github.com/tulip-lab/agentic-AI-lab/tree/develop). Stable module and session IDs connect the two without duplicating editable content.
+The public module pages introduce purpose, vocabulary, progression and curated readings. They provide navigation and background; complete restricted teaching materials are maintained separately. Executable notebooks and tutorials are canonical in the [public Lab repository](https://github.com/tulip-lab/agentic-AI-lab/tree/develop). Stable module and session IDs connect the two without duplicating editable content.
 
 ## Offering Selection
 

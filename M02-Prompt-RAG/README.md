@@ -91,13 +91,13 @@ The three sessions form one control chain over a single model call. M02A asks wh
 
 ## Practicals
 
-The Lab repository has been realigned to this module's confirmed Prompt Engineering and RAG design: the notebook directory and file names now match the M02A-M02C session structure below. The notebooks currently contain a structured outline with placeholder exercises; full worked practicals are still being authored and will be filled in without changing these stable names.
+The practical sequence follows prompt foundations, controlled improvement, and retrieval-augmented generation. Guided examples and student tasks are distinct; use each notebook's instructions for its offline and optional model-backed paths.
 
-| Session | Lab notebook | Notebook status |
-| --- | --- | --- |
-| M02A | [Prompt foundations notebook](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-Prompt-RAG/Jupyter/M02A-Prompt-Foundations.ipynb) | Outline and placeholder exercises |
-| M02B | [Prompt engineering control loop notebook](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-Prompt-RAG/Jupyter/M02B-Prompt-Engineering-Control-Loop.ipynb) | Outline and placeholder exercises |
-| M02C | [Retrieval-augmented generation notebook](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-Prompt-RAG/Jupyter/M02C-Retrieval-Augmented-Generation.ipynb) | Outline and placeholder exercises |
+| Session | Lab notebook |
+| --- | --- |
+| M02A | [Prompt foundations](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-Prompt-RAG/Jupyter/M02A-Prompt-Foundations.ipynb) |
+| M02B | [Prompt engineering control loop](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-Prompt-RAG/Jupyter/M02B-Prompt-Engineering-Control-Loop.ipynb) |
+| M02C | [Retrieval-augmented generation](https://github.com/tulip-lab/agentic-AI-lab/blob/develop/M02-Prompt-RAG/Jupyter/M02C-Retrieval-Augmented-Generation.ipynb) |
 
 ## Further Reference Resources
 
