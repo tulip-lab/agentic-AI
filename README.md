@@ -22,6 +22,17 @@ Hands-on notebooks, Flowise tutorials, and other practical materials are availab
 - Select a module below, then complete its linked practicals in the [Lab repository](https://github.com/tulip-lab/agentic-AI-lab/tree/develop).
 - Check the [offering index](offerings/README.md) for institution-specific delivery information.
 
+## Offerings
+
+| Offering | Institution | Audience | Teaching allocation | Status |
+| --- | --- | --- | --- | --- |
+| [HNU 2026](offerings/hnu/2026/README.md) | HNU / 湖南大学 | Not specified | Not specified | Planned |
+| [BTBU 2026](offerings/btbu/agentic-ai/2026/README.md) | BTBU | Business faculty | 10 class hours; 5 sessions (450 minutes total) | Planned |
+
+The BTBU series, **AI赋能教学与科研**, is delivered in Chinese. See the
+[offering index](offerings/README.md) for delivery details. Each offering
+selects from the common course; its own syllabus defines the scope for that cohort.
+
 ## Prerequisites
 
 You should be comfortable reading basic Python, working with files and web applications, and interpreting simple data or model outputs. Prior experience with large language models is useful but not required.
@@ -56,11 +67,9 @@ The sequence moves from model and API foundations to workflow construction, know
 
 Never commit credentials, personal data, private course material, or unreviewed model output. Treat tool calls as real capabilities: constrain permissions, validate inputs, test failure behaviour, and retain human review for consequential actions.
 
-## Offerings and Assignments
+## Assignments
 
-- [HNU / 湖南大学 2026](offerings/hnu/2026/README.md)
-- [BTBU Business Faculty 2026：AI赋能教学与科研](offerings/btbu/2026/business-faculty/README.md) 面向商科教师，以中文介绍 AI 在教学与科研中的应用。
-- Assignment briefs and starter materials, when approved, are canonical in the Lab repository and linked from the relevant offering rather than copied here.
+Assignment briefs and starter materials, when approved, are canonical in the Lab repository and linked from the relevant [offering](offerings/README.md) rather than copied here.
 
 ## Contributing
 

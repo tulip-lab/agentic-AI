@@ -4,7 +4,16 @@
 
 Explore course offerings for different audiences and teaching contexts. Each offering introduces its learning goals, topics and learning activities.
 
+Public offering directories use `offerings/<institution>/<course>/<year>/`.
+The BTBU offering follows this pattern; its former path remains a compatibility
+entry. Audience and teaching allocation are recorded on the offering page.
+
 ## Current Index
 
-- [HNU / 湖南大学 2026](hnu/2026/README.md) - **planned**
-- [BTBU Business Faculty 2026：AI赋能教学与科研](btbu/2026/business-faculty/README.md) — 面向商科教师，中文材料，10 学时、五场专题，共 450 分钟。
+| Offering | Institution | Audience | Teaching allocation | Status |
+| --- | --- | --- | --- | --- |
+| [HNU 2026](hnu/2026/README.md) | HNU / 湖南大学 | Not specified | Not specified | Planned |
+| [BTBU 2026](btbu/agentic-ai/2026/README.md) | BTBU | Business faculty | 10 class hours; 5 sessions (450 minutes total) | Planned |
+
+The BTBU series, **AI赋能教学与科研**, is delivered in Chinese. Each offering
+selects from the common course; its own syllabus defines the scope for that cohort.
